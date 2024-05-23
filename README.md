@@ -1,22 +1,6 @@
 # Credit-O-Cube
 
 ## Description
-Add project description
+Credit-O-Cube is a full-stack banking application leveraging Spring Security, Spring Web, and MySQL for backend functionalities and data storage, while utilizing HTML, CSS, and JavaScript for frontend development.
 
-## Installation
-Add information for other developers
-
-## Roadmap
-Add Roadmap
-
-
-## Authors and acknowledgment
-Logging reference video: https://www.youtube.com/watch?v=T_lWpqOWaE0 <br>
-
-How to save and access credentials in an env.properties file: https://medium.com/@Marou_arnault/spring-boot-hide-your-credentials-fb1ca22ae911
-
-Spring Security and Testing: https://www.youtube.com/watch?v=6nibjpYC7hk (YouTube video) https://github.com/eleftherias/devoxx-greece/tree/main (Github Repo for project in the video)
-
-
-## Project status
-Under development.
+Thymeleaf was also used to dynamically render transaction data and user information on a user-friendly dashboard, enhancing the overall user experience.
